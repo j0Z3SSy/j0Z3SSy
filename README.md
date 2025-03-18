@@ -12,7 +12,7 @@ I aim to become a **Senior Software Developer**, combining technical skills with
 - **Tech Exploration**: Constantly learning and improving  
 
 ## 🌐 Explore More  
-Check out my portfolio [**https://myportfolio.jonimitronen.xyz/**](#) for:  
+Check out my portfolio [**https://j0z3ssy.github.io/My-Portfolio/index.html**](#) for:  
 - A complete list of my **hard skills**, **soft skills**, and **progress**  
 - Personal projects and achievements  
 - Insights into my personal journey and interests
