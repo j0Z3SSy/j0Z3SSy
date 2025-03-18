@@ -16,7 +16,8 @@ Check out my portfolio [**https://myportfolio.jonimitronen.xyz/**](#) for:
 - A complete list of my **hard skills**, **soft skills**, and **progress**  
 - Personal projects and achievements  
 - Insights into my personal journey and interests
-Also here is my school github prfile: [**https://github.com/joni23008**](#)
+Also here is my school github profile: [**https://github.com/joni23008**](#) for:
+- Information about what kind of exercises and projects i have been part of
 
 Feel free to explore my repositories, and let’s collaborate! 😊  
 
