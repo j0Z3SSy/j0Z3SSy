@@ -12,12 +12,12 @@ I aim to become a **Senior Software Developer**, combining technical skills with
 - **Tech Exploration**: Constantly learning and improving  
 
 ## 🌐 Explore More  
-Check out my portfolio [**https://j0z3ssy.github.io/My-Portfolio/index.html**](#) for:  
+Check out my portfolio [**https://j0z3ssy.github.io/My-Portfolio/index.html**] for:  
 - A complete list of my **hard skills**, **soft skills**, and **progress**  
 - Personal projects and achievements  
 - Insights into my personal journey and interests
   
-Also here is my school github profile: [**https://github.com/joni23008**](#) for:
+Also here is my school github profile: [**https://github.com/joni23008**] for:
 - Information about what kind of exercises and projects i have been part of
 
 Feel free to explore my repositories, and let’s collaborate! 😊  
