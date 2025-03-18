@@ -15,7 +15,8 @@ I aim to become a **Senior Software Developer**, combining technical skills with
 Check out my portfolio [**https://myportfolio.jonimitronen.xyz/**](#) for:  
 - A complete list of my **hard skills**, **soft skills**, and **progress**  
 - Personal projects and achievements  
-- Insights into my personal journey and interests  
+- Insights into my personal journey and interests
+Also here is my school github prfile: [**https://github.com/joni23008**](#)
 
 Feel free to explore my repositories, and let’s collaborate! 😊  
 
